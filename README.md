@@ -4,7 +4,7 @@
 
 A dual-purpose AI tool that combines **deep learning-based brain tumor classification** with a **local language model (LLM) Q&A assistant**, built for enhanced diagnostics and knowledge support in medical applications.
 
-> 🚧 This project was developed as part of an AI assignment for **Lanmentix**. A demo video will be uploaded soon.
+
 
 ---
 
